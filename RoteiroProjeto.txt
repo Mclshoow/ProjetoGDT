@@ -1,0 +1,48 @@
+Funcionario carrossel: visualizar nova tarefa, 
+	tarefas em andamento, 
+	tarefas pendentes e historico tarefas;
+
+Gerente carrossel: criar nova tarefa, 
+	visualizar tarefas funcionarios, 
+	atualizar tarefas e historico funcionario;
+
+dotnet new mvc --auth Individual -o GDT -f net5.0
+
+dotnet tool install --global dotnet-aspnet-codegenerator --version 5.0.0
+
+dotnet tool update -g dotnet-aspnet-codegenerator 
+
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design --version 5.0.0
+
+dotnet-aspnet-codegenerator controller -name TodoController -dc ApplicationDbContext -m Todo --useDefaultLayout --useSqlite  --referenceScriptLibraries
+
+dotnet tool install --global dotnet-ef --version 5.0.0
+
+dotnet tool uninstall --global dotnet-aspnet-codegenerator
+
+dotnet tool uninstall --global dotnet-ef 
+
+dotnet ef migrations add CreateTodoTable
+// t4 templates
+dotnet ef database update
+
+dotnet watch run
+
+ public int Id { get; set; }
+
+        [DisplayName("Titulo")]
+        [Required(ErrorMessage = "Campo obrigatório")]
+        public string Title { get; set; }
+
+        [DisplayName("Concluído")]
+        public bool Done { get; set; }
+
+        [DisplayName("Criado em")]
+        public DateTime CreatedAt { get; set; } = DateTime.Now;
+
+        [DisplayName("Última atualização")]
+        public DateTime LastUpdateTime { get; set; } = DateTime.Now;
+
+        [DisplayName("Usuário")]
+        public string User { get; set; }
+

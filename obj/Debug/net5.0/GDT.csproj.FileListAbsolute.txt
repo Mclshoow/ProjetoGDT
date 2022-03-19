@@ -1,0 +1,336 @@
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\appsettings.Development.json
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\appsettings.json
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\GDT.StaticWebAssets.xml
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\app.db
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\GDT.exe
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\GDT.deps.json
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\GDT.runtimeconfig.json
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\GDT.runtimeconfig.dev.json
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\GDT.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\GDT.pdb
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\GDT.Views.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\GDT.Views.pdb
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Humanizer.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\Newtonsoft.Json.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\System.Composition.Convention.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\System.Composition.Hosting.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\System.Composition.Runtime.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\System.Composition.TypedParts.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.csproj.AssemblyReference.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.GeneratedMSBuildEditorConfig.editorconfig
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.AssemblyInfoInputs.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.AssemblyInfo.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.csproj.CoreCompileInputs.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.MvcApplicationPartsAssemblyInfo.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.MvcApplicationPartsAssemblyInfo.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.RazorAssemblyInfo.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.RazorAssemblyInfo.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\scopedcss\bundle\GDT.styles.css
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\staticwebassets\GDT.StaticWebAssets.Manifest.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\staticwebassets\GDT.StaticWebAssets.xml
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.TagHelpers.input.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.TagHelpers.output.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.RazorCoreGenerate.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.RazorTargetAssemblyInfo.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.RazorTargetAssemblyInfo.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.Views.pdb
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.csproj.CopyComplete
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.dll
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\refint\GDT.dll
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.pdb
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\GDT.genruntimeconfig.cache
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\ref\GDT.dll
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Todo\Create.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Todo\Delete.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Todo\Details.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Todo\Edit.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Todo\Index.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\appsettings.Development.json
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\appsettings.json
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\app.db
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\GDT.StaticWebAssets.xml
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\GDT.exe
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\GDT.deps.json
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\GDT.runtimeconfig.json
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\GDT.runtimeconfig.dev.json
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\GDT.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\GDT.pdb
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\GDT.Views.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\GDT.Views.pdb
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Humanizer.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.Internal.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Cryptography.KeyDerivation.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Diagnostics.EntityFrameworkCore.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.EntityFrameworkCore.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.Views.V4.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Identity.UI.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.AspNetCore.Razor.Language.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.CodeAnalysis.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Razor.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.CodeAnalysis.Workspaces.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.Data.Sqlite.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.DotNet.PlatformAbstractions.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.EntityFrameworkCore.Sqlite.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.Extensions.FileProviders.Embedded.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Core.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.Extensions.Identity.Stores.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Contracts.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Core.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\dotnet-aspnet-codegenerator-design.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Templating.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGeneration.Utils.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Microsoft.VisualStudio.Web.CodeGenerators.Mvc.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\Newtonsoft.Json.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\SQLitePCLRaw.batteries_v2.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\SQLitePCLRaw.nativelibrary.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\SQLitePCLRaw.core.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\SQLitePCLRaw.provider.dynamic_cdecl.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\System.Composition.AttributedModel.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\System.Composition.Convention.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\System.Composition.Hosting.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\System.Composition.Runtime.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\System.Composition.TypedParts.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\win-arm\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\win-arm64\lib\net5.0\dotnet-aspnet-codegenerator-design.exe
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\alpine-x64\native\libe_sqlite3.so
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\linux-arm\native\libe_sqlite3.so
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\linux-arm64\native\libe_sqlite3.so
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\linux-armel\native\libe_sqlite3.so
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\linux-mips64\native\libe_sqlite3.so
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\linux-musl-x64\native\libe_sqlite3.so
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\linux-x64\native\libe_sqlite3.so
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\linux-x86\native\libe_sqlite3.so
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\osx-x64\native\libe_sqlite3.dylib
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\win-arm\native\e_sqlite3.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\win-arm64\native\e_sqlite3.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\win-x64\native\e_sqlite3.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\win-x86\native\e_sqlite3.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.csproj.AssemblyReference.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.AssemblyInfoInputs.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.AssemblyInfo.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.csproj.CoreCompileInputs.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.RazorAssemblyInfo.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.RazorAssemblyInfo.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\scopedcss\bundle\GDT.styles.css
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\staticwebassets\GDT.StaticWebAssets.Manifest.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\staticwebassets\GDT.StaticWebAssets.xml
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.TagHelpers.input.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.TagHelpers.output.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.RazorCoreGenerate.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Areas\Identity\Pages\_ViewStart.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Shared\_LoginPartial.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Todo\Create.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Todo\Delete.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Todo\Details.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Todo\Edit.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Todo\Index.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.RazorTargetAssemblyInfo.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.RazorTargetAssemblyInfo.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.Views.pdb
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.csproj.CopyComplete
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\refint\GDT.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.pdb
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\GDT.genruntimeconfig.cache
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\ref\GDT.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Shared\gerenciadorDeTarefas.cshtml.g.cs
+C:\Users\Alunos\Desktop\Mcl\GDT\obj\Debug\net5.0\Razor\Views\Shared\home.cshtml.g.cs
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
+E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Shared\gerenciadorDeTarefas.cshtml.g.cs
+E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Shared\home.cshtml.g.cs

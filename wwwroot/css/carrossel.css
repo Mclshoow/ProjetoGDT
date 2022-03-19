@@ -1,0 +1,69 @@
+.caixa{
+  align-items: flex-end;
+  display: flex;
+  justify-content: center;
+}
+
+.destaques{
+  display: grid;
+  grid-gap: .2rem;
+  grid-template-columns: 33% 33% 34%;
+  grid-template-rows: 50% 50%;
+  height: calc(100vh );
+}
+
+.destaques__titulo{
+  background: rgb(0, 0, 0, .5);
+  color: #fdfdfd;
+  padding: .6rem;
+  text-align: center;
+  width: 100%;
+}
+
+.destaques__titulo :hover{
+  color: #1C1C1C;
+  text-decoration: underline;
+}
+
+.destaques__principal{
+  background: url('img/gerar_tarefa_removebg.png') center / cover no-repeat;  
+  width: 100%;  
+  height: 100%;
+  grid-column: 1 / 2;
+  grid-row: 1 / 1;
+}
+
+.destaques__secundario:nth-child(2){
+  background: url('img/novaTarefa_removebg.png') center / cover no-repeat;    
+  grid-column:2 / 3;  
+  grid-row: 1 / 1;
+}
+
+.destaques__secundario:nth-child(3){
+  background: url('img/emAndamento_removebg.png') center / cover no-repeat;    
+  grid-column: 3/ 3;  
+  grid-row: 1 / 1;
+}
+
+.destaques__secundario:nth-child(4){
+  background: url('img/pendencias.png') center / cover no-repeat;    
+  grid-column:1 / 2;  
+  grid-row: 2 / 2;
+}
+
+.destaques__secundario:nth-child(5){
+  background: url('img/finalizada_removebg.png') center / cover no-repeat;    
+  grid-column:2 / 3;  
+  grid-row: 2 / 2;
+}
+
+.destaques__secundario:nth-child(6){
+  background: url('img/historico_removebg.png') center / cover no-repeat;    
+  grid-column:3/ 3;  
+  grid-row: 2 / 2;
+}
+
+.destaques__titulo:hover{
+  color: #d9823d;
+}
+

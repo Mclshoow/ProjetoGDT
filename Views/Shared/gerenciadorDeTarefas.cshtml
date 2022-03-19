@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+    <head>
+        <meta charset="UTF-8">
+        <title>Gerenciador de Tarefas</title>
+
+        <link rel="stylesheet" href="reset.css">
+        <link rel="stylesheet" href="login.css">
+    </head>
+
+    <body>
+        <header >
+            <div class="cabecalho">
+                <h1><img src="img\gerenciador.png" alt="Logo do Gerenciador de Tarefas."></h1>
+                <nav>
+                    <ul>
+                        <li><a href="gerenciadorDeTarefas.html">Login</a></li>
+                        <li><a href="home.html">Home</a></li>
+                        <li><a href="">Institucional</a></li>
+                    </ul>
+                </nav>
+            </div>
+        </header>
+
+        <main>
+            <form action="">
+                <div class="container">
+                    <label for="matricula">Matrícula</label>
+                    <input type="text" id="matricula" class="input-padrao" required>
+    
+                    <label for="psw">Senha</label>
+                    <input type="password" id="senha" class="input-padrao" required>
+    
+                    <button type="submit">Login</button>
+                    <label>
+                    <input type="checkbox" checked="checked" name="remember"> Lembre-me
+                    </label>
+                </div>               
+
+                <div class="container">
+                    <button type="button" class="cancelbtn">Cancelar</button>
+                    <span class="psw">Esqueceu sua <a href="#">senha?</a></span>
+                </div>
+            </form>
+        </main>
+        <footer>
+            <img src="img\marca_d'agua.png" class="marcadagua" alt="Marca d'água do Gerenciador de Tarefas.">
+            <p class="fone">Tel.: (41) 3333-9999</p>
+            <p class="copyright">&copy; Copyright Gerenciador de Tarefas - 2022</p>
+        </footer>
+    </body>    
+</html>
