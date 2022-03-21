@@ -60,7 +60,7 @@ html {
 
 body {
   /* Margin bottom by footer height */
-  margin-bottom: 60px;
+  margin-bottom: 100px;
 }
 .footer {
     position: absolute;
@@ -108,7 +108,7 @@ body {
 }
 
 .destaques__principal {
-    background: url('img/gerar_tarefa_removebg.png') center / no-repeat;
+    background: url('../img/gerar_tarefa_removebg.png') center;
     width: 100%;
     height: 100%;
     grid-column: 1 / 2;
@@ -116,31 +116,31 @@ body {
 }
 
 .destaques__secundario:nth-child(2) {
-    background: url('img/novaTarefa_removebg.png') center / no-repeat;
+    background: url('../img/novaTarefa_removebg.png') center;
     grid-column: 2 / 3;
     grid-row: 1 / 1;
 }
 
 .destaques__secundario:nth-child(3) {
-    background: url('img/emAndamento_removebg.png') center / no-repeat;
+    background: url('../img/emAndamento_removebg.png') center;
     grid-column: 3/ 3;
     grid-row: 1 / 1;
 }
 
 .destaques__secundario:nth-child(4) {
-    background: url('img/pendencias.png') center / no-repeat;
+    background: url('../img/pendencias.png') center;
     grid-column: 1 / 2;
     grid-row: 2 / 2;
 }
 
 .destaques__secundario:nth-child(5) {
-    background: url('img/finalizada_removebg.png') center / no-repeat;
+    background: url('../img/finalizada_removebg.png') center;
     grid-column: 2 / 3;
     grid-row: 2 / 2;
 }
 
 .destaques__secundario:nth-child(6) {
-    background: url('img/historico_removebg.png') center / no-repeat;
+    background: url('../img/historico_removebg.png') center;
     grid-column: 3/ 3;
     grid-row: 2 / 2;
 }

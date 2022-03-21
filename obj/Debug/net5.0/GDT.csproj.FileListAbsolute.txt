@@ -332,5 +332,3 @@ E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\linux-x64\native\libsqlite3.so
 E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\osx-x64\native\libsqlite3.dylib
 E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\win7-x64\native\sqlite3.dll
 E:\Projetos VS 2019\GDT\bin\Debug\net5.0\runtimes\win7-x86\native\sqlite3.dll
-E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Shared\gerenciadorDeTarefas.cshtml.g.cs
-E:\Projetos VS 2019\GDT\obj\Debug\net5.0\Razor\Views\Shared\home.cshtml.g.cs
